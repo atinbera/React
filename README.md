@@ -1,1 +1,1 @@
-#  Staring of React JS in details
+#  Starting of React JS in details
