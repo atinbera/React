@@ -1,1 +1,1 @@
-#  Starting of React JS in details
+#  Start of React JS in details
