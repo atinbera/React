@@ -1,1 +1,1 @@
-#  Staring of React JS full Course
+#  Staring of React JS in details
